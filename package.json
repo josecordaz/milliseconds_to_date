@@ -1,0 +1,22 @@
+{
+  "name": "milliseconds_to_date",
+  "version": "1.0.0",
+  "description": "convert milliseconds to UTC date string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josecordaz/milliseconds_to_date.git"
+  },
+  "author": "josecordaz@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josecordaz/milliseconds_to_date/issues"
+  },
+  "homepage": "https://github.com/josecordaz/milliseconds_to_date#readme",
+  "devDependencies": {
+    "readline": "^1.3.0"
+  }
+}
